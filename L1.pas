@@ -1,6 +1,7 @@
 uses crt;
 var k,n,i,s,j:longint;
 begin
+{программа является учебной}
 clrscr;
 read('Begin = ',k);
 repeat
